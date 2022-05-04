@@ -1,0 +1,9 @@
+<launch>
+
+  <node pkg="tf_study" name="tf_test" type="tf_test" output="screen" />
+
+  <node pkg="rviz" name="rviz" type="rviz" args="-d $(find tf_study)/cfg/tf_test.rviz" output="screen"/>
+
+
+</launch>
+

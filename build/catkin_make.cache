@@ -1,0 +1,2 @@
+learning_launch:learning_parameter:learning_service:learning_tf:learning_topic:tf_lrn:yolo_ros_pic
+-DCATKIN_DEVEL_PREFIX=/home/heidai/ws/devel -DCMAKE_INSTALL_PREFIX=/home/heidai/ws/install -G Unix Makefiles
